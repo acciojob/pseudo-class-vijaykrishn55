@@ -1,11 +1,11 @@
 div::after{	
-	content:" After Element";	
+	content:"After Element";	
 	color:red;	
 	font-size:20px;
 }
 /*  your css code here. If applicable */
 div::before{	
-	content:"Before Element ";
+	content:"Before Element";
 			color:red;	
 			font-size:20px;
 		   } 
